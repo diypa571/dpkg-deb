@@ -1,0 +1,9 @@
+Package: PackageName
+Version: 0.1
+Section: House
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: myipfs.se
+Description:This for having some description about the program
