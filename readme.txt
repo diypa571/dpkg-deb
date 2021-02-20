@@ -1,5 +1,5 @@
 There are so many video tutorials on youtube showing us how to create  Debian packages. 
-I have watched many of these tutorials. Now I write my own easy, short way to crate the .deb file.
+I have watched many of these tutorials. Now I write my own easy, short way to crate a .deb file.
 We should already have gcc, g++ installed...
 gcc -v
 If not installed, run this command
