@@ -16,15 +16,21 @@ Creating the .deb file.
 
 Add this text to control file and save it
 5- nano Package: program
-Package: PackageName// Set a package name
-Version: 0.1 // Version number
-Section: Web // 
+*******************************
+Source: electrotest
+Package: electrotest
+Version: 0.01
+Section: electronics
 Priority: optional
-Architecture: all
-Essential: no
-Installed-Size: 1024
-Maintainer: myipfs.se// Have a website or maybe an email.
-Description: This for having some description about the program
+Architecture:binary
+Depends:
+Installed-Size: 4264
+Maintainer: Diyar Parwana <diypa571@gmail.com>
+Homepage: https://myipfs.se
+Description:Use this program for calculating Voltage,Effect and Resistance.
+    Use as you wish, we are not responsible for any damages...bla bla.
+*******************************  
+    
 6- cd DEBIAN 
 7- mkdir usr 
 8- cd usr 
