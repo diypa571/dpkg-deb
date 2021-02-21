@@ -43,7 +43,10 @@ Now we need to have the program, the compiled program should exist in the bin fo
 14- dpkg-deb --build demo //demo is the main folder, created from the beginning
 
 
+
+
 ///***** TESTING********///
+lintian program.deb
 dpkg-deb -c test.deb
 dpkg-deb -f test.deb
 
