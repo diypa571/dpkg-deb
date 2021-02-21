@@ -36,6 +36,7 @@ Description: Write you description....
 8- cd usr 
 9- mkdir bin | mkdir share
 Now we need to have the program, the compiled program should exist in the bin folder.
+Make sure to.. ...  strip -s program
 10- cp /dir/program demo/usr/bin/
 11- Inside the share folder, mkdir doc
 12- Inside the doc folder, touch copyright | changelog
