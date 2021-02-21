@@ -22,13 +22,13 @@ Package: electrotest
 Version: 0.01
 Section: electronics
 Priority: optional
-Architecture:binary
+Architecture: amd64
 Depends:
 Installed-Size: 4264
 Maintainer: Diyar Parwana <diypa571@gmail.com>
 Homepage: https://myipfs.se
-Description:Use this program for calculating Voltage,Effect and Resistance.
-    Use as you wish, we are not responsible for any damages...bla bla.
+Description: Write you description....
+ Add more description ..
 *******************************  
     
 6- cd DEBIAN 
