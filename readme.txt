@@ -42,3 +42,9 @@ Now we need to have the program, the compiled program should exist in the bin fo
 13- sudo chown root:root -R demo
 14- dpkg-deb --build demo //demo is the main folder, created from the beginning
 
+
+///***** TESTING********///
+dpkg-deb -c test.deb
+dpkg-deb -f test.deb
+
+
