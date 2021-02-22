@@ -1,0 +1,17 @@
+.\" Man MAN PAGE TEMPLATE
+.\" diyp571@gmail.com...
+.TH man 1 "21 Februari 2021" "0.01" "electrotest man page"
+.SH NAME
+electrotest \- WITH WITH THIS, YOU CAN DO ELECTRONIC CALCULATIONS ): (:
+.SH SYNOPSIS
+electrotest [NO OPTIONS]
+.SH DESCRIPTION
+HAVE THE DESCRIPTION FOR THE SCRIPT HERE::::::
+.SH OPTIONS
+WRITE THE OPTIONS HERE::::::
+.SH SEE ALSO
+electrotest(1)
+.SH BUGS
+REPORTED BUGS::::::::
+.SH AUTHOR
+Di..... (diypa571@gmail.com)
