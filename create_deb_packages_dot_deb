@@ -23,7 +23,7 @@ Version: 0.01
 Section: electronics
 Priority: optional
 Architecture: amd64
-Depends:
+Depends:libc6 (>= 2.2.1)
 Installed-Size: 4264
 Maintainer: Diyar Parwana <diypa571@gmail.com>
 Homepage: https://myipfs.se
