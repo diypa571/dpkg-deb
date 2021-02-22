@@ -52,3 +52,6 @@ dpkg-deb -c test.deb
 dpkg-deb -f test.deb
 
 
+//diypa
+
+
