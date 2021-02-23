@@ -1,0 +1,2 @@
+It is good for disecting deb packages.
+dpkg -x mypack.deb /tmp/out
