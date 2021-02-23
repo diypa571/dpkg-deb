@@ -23,7 +23,7 @@ Di..... (diypa571@gmail.com)
 2- Run these commands
 sudo
 sudo gzip electrotest // Important to use the same name used in the template
-sudo cp electrotest.gz /usr/man/man1
+sudo cp electrotest.gz /usr/share/man/man1
 sudo makewhatis
 sudo whatis electrotest
 
